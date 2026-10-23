@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-linkednav",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n community node for LinkedNav: LinkedIn outreach campaigns, leads, inbox and approvals, and your own LinkedIn account. Not affiliated with LinkedIn.",
   "license": "MIT",
   "homepage": "https://linkednav.com",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/linglistack/n8n-nodes-linkednav.git"
+    "url": "git+https://github.com/linglistack/n8n-nodes-linkednav.git"
   },
   "scripts": {
     "build": "n8n-node build",

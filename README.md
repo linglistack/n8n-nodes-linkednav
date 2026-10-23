@@ -81,4 +81,5 @@ Each LinkedIn account has daily limits for each kind of action, and LinkedNav ke
 
 ## Version history
 
+- **0.1.1**: the same node, published from GitHub Actions with npm provenance, as n8n asks of verified nodes.
 - **0.1.0**: first release. Every action of the LinkedNav API, generated from its OpenAPI file by `scripts/generate.mjs`, with n8n's Return All and Limit on every list that pages.
